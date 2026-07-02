@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PrimeSmp-OvZv.aternos.me:27346",
+    "ip": "PrimeSmp-OvZv.aternos.me",
     "port": 27346,
     "version": "",
     "try-creative": false
