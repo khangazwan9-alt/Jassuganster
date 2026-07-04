@@ -1,7 +1,7 @@
 {
   "name": "AFK bot",
   "bot-account": {
-    "username": "Jassuganster",
+    "username": "Herobrine",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a pakistani player",
-        "I like cricket",
-        "I like to play minecraft"
+        "This is the best smp",
+        "Wanna PvP",
+        "can ayone come to me i will smash him"
       ]
     },
     "chat-log": true,
